@@ -46,7 +46,7 @@ _box addMagazineCargoGlobal ["64Rnd_9x19_Bizon", 10];
 // TOOLS
 _box addWeaponCargoGlobal ["ItemToolbox", 2];
 _box addWeaponCargoGlobal ["ItemEtool", 2];
-_box addWeaponCargoGlobal ["NVGoogles", 2];
+_box addWeaponCargoGlobal ["NVGoggles", 2];
 _box addWeaponCargoGlobal ["ItemKnife", 2];
 
 // BACKPACKS
