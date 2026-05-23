@@ -13,6 +13,10 @@ Must Pack origins_pack First:
 
 How To Install Origin Server Files:
 ===================================
+<b>Download DayZ Origins Mod:</b>
+- DayZ Origins 1.7.8: https://archive.org/details/dayz-origins-1.7.8.-7z<br>
+- DayZ Origins 1.7.8.5: https://archive.org/details/day-z-origins-1.7.8.5<br>
+
 <b>How to Install</b>
 - Download DayZ_Origins Version 1.7.8.5 and install it in your OA folder.<br>
 - Download these github files.<br>
