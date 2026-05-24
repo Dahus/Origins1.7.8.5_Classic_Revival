@@ -1,9 +1,23 @@
+# DayZ Origins 1.7.8.5 - Classic Revival Fork
+
+> This fork exists for one reason: to give people a clean, comfortable and authentic DayZ Origins experience — the way it was meant to be played.
+
+Changes:
+===================================
+### Added
+✅ Migrated to Osmia backend - server logic runs on Lua with ODBC support
+
+### Fixed
+
+✅ No entry 'bin\config.bin/CfgWeapons.NVGoogles'<br>
+✅ Restored classic Origins HUD<br>
+❌ Black screen after player death
+
 Requirements:
 ===================================
 
 - Download Arma2 and Operation Arrowhead on Steam.<br>
 - Copy ALL Arma2 files and folder and paste them in the Operation Arrowhead folder.<br>
-
 
 Must Pack origins_pack First:
 ===================================
